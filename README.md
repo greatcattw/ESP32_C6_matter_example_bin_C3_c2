@@ -13,7 +13,7 @@ PIN is 34970112332
 <br>
 The PID is set in sdkconfig / CONFIG_DEVICE_PRODUCT_ID  
 Default, both VID/PID is 0xFFF1 and 0X8000  
-I changed switch PID from 0x8000 to 0x800f  
+
 
 
 Need to setting google developer console for google home and Google Nest Hub.  
