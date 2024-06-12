@@ -28,5 +28,5 @@ matter device factoryreset
 ![pic](pic/uart_driver.png)<br>
 <br>
 <br>
-![pic](pic/uart_driver.png)<br>
+![pic](pic/uart_driver2.png)<br>
 <br>
