@@ -24,3 +24,9 @@ Then you can control ESP32 C6 over voice.
 
 # Others resource
 matter device factoryreset  
+<br>
+![pic](pic/uart_driver.png)<br>
+<br>
+<br>
+![pic](pic/uart_driver.png)<br>
+<br>
