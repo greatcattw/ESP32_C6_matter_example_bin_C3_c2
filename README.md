@@ -11,6 +11,8 @@ You can flash these bin file with windows tools ( flash_download_tool_3.9.5_0.zi
 <br>
 PIN is 34970112332  
 <br>
+![pic](pic/esp32_qrcode.png)<br>
+<br>
 The PID is set in sdkconfig / CONFIG_DEVICE_PRODUCT_ID  
 Default, both VID/PID is 0xFFF1 and 0X8000  
 
@@ -20,3 +22,5 @@ Need to setting google developer console for google home and Google Nest Hub.
 Then you can control ESP32 C6 over voice.  
 ![pic](pic/google_setting.png)<br><br><br>
 
+# Others resource
+matter device factoryreset  
