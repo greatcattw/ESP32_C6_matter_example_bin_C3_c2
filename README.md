@@ -15,13 +15,15 @@ PIN is 34970112332
 <br>
 The PID is set in sdkconfig / CONFIG_DEVICE_PRODUCT_ID  
 Default, both VID/PID is 0xFFF1 and 0X8000  
-
-
-
+<br>
 Need to setting google developer console for google home and Google Nest Hub.  
 Then you can control ESP32 C6 over voice.  
 ![pic](pic/google_setting.png)<br><br><br>
-
+<br>
+# plug c2 demo bin
+gpio#1, blue light, as contorl for relay/SSR.  
+gpio#18, as button to on/off plug, short to GND as press button.
+<br>
 # Others resource
 matter device factoryreset  
 <br>
@@ -30,3 +32,30 @@ matter device factoryreset
 <br>
 ![pic](pic/uart_driver2.png)<br>
 <br>
+<br>
+color light
+![pic](pic/color_light.jpg)<br>
+<br>
+<br>
+dimmer light
+![pic](pic/dimmer_light.jgp)<br>
+<br>
+<br>
+onoff light
+![pic](pic/onoff_light.jpg)<br>
+<br>
+<br>
+plug, end of google nest hub
+![pic](pic/plug1.jpg)<br>
+<br>
+<br>
+plug, end of google nest hub
+![pic](pic/plug2.jpg)<br>
+<br>
+<br>
+plug, end of phone
+![pic](pic/plug3.png)<br>
+<br>
+<br>
+plug, end of phone
+![pic](pic/plug4.png)<br>
