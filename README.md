@@ -33,29 +33,29 @@ matter device factoryreset
 ![pic](pic/uart_driver2.png)<br>
 <br>
 <br>
-color light
+color light  
 ![pic](pic/color_light.jpg)<br>
 <br>
 <br>
-dimmer light
+dimmer light  
 ![pic](pic/dimmer_light.jgp)<br>
 <br>
 <br>
-onoff light
+onoff light  
 ![pic](pic/onoff_light.jpg)<br>
 <br>
 <br>
-plug, end of google nest hub
+plug, end of google nest hub  
 ![pic](pic/plug1.jpg)<br>
 <br>
 <br>
-plug, end of google nest hub
+plug, end of google nest hub  
 ![pic](pic/plug2.jpg)<br>
 <br>
 <br>
-plug, end of phone
+plug, end of phone  
 ![pic](pic/plug3.png)<br>
 <br>
 <br>
-plug, end of phone
+plug, end of phone  
 ![pic](pic/plug4.png)<br>
