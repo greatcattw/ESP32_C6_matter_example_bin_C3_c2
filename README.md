@@ -38,7 +38,7 @@ color light
 <br>
 <br>
 dimmer light  
-![pic](pic/dimmer_light.jgp)<br>
+![pic](pic/dimmer_light.jpg)<br>
 <br>
 <br>
 onoff light  
